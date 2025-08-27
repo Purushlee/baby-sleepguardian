@@ -1,8 +1,6 @@
 numpy
 scikit-learn
 librosa
-pandas
-matplotlib
+joblib
 tensorflow
-torch
-soundfile
+matplotlib
